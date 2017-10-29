@@ -30,4 +30,5 @@ use Dtclass\Store\Book;
                             <div><?php // print $shippingservices[1]->getShippingCost($storeitem->getWeight()); ?></div>
         <?php endforeach; ?>
 
-</body>   ----------**/
+</body>
+</html>
